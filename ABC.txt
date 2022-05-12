@@ -3,4 +3,8 @@ FROM newBRANCH
 from MAIN
 from MAIN2
 from MAIN3
+<<<<<<< HEAD
 from localREPO
+=======
+from GITHUB6
+>>>>>>> a277f56ba8730ce443077b47c516a25d362a2145
