@@ -1,2 +1,5 @@
 ABC
 FROM newBRANCH
+from MAIN
+from MAIN2
+from MAIN3
